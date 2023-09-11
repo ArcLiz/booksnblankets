@@ -1,0 +1,15 @@
+@import url("https://use.typekit.net/fze8hls.css");
+
+@font-face {
+    font-family: 'josephsophia';
+    src: url(/assets/fonts/josephsophia.ttf);
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'josephsophia', sans-serif;
+}
+p {
+    font-family: "pinot-grigio-modern", sans-serif;
+font-weight: 300;
+font-style: normal;
+}
